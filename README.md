@@ -1,1 +1,2 @@
 # ControlPlatform-Empowering-Smart-Home
+The smart home is based on a residential building. It integrates the facilities related to home life using integrated wiring technology, network communication technology, security technology, automatic control technology, and audio and video technology, and builds an efficient management system for residential facilities and family schedule affairs. Home security, convenience, comfort, artistic, and to achieve environmental protection and energy saving living environment.
